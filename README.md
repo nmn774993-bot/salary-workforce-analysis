@@ -1,8 +1,11 @@
 Salary & Workforce Analysis
+
 This project demonstrates how workforce structure influences salary costs and business decision-making.
 
 📊 Project Description
+
 This project analyzes employee salary structure and workforce composition across departments.
+The dataset contains employee information including department, age and salary.
 
 Objectives
 
